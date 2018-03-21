@@ -34,4 +34,4 @@ For detailed description: [here](http://www.cplusplus.com/reference/cstdlib/)
 ---
 
 #### Future work
-- The pool/arena allocation strategy has significant implications for the overall memory layout
+- The pool/arena allocation strategy has significant implications for the overall memory layout and performance.
